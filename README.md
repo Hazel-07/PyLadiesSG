@@ -10,13 +10,13 @@ One thing to take note is that  PyLadiesSG is belong to the international PyLadi
 Below is our old website, please use it only for reference: 
 <br/>http://pyladies.sg
 
-<br/><br/>
+<br/>
 
 ****WHY THIS REPO?****
 
 This repo is for the new PyLadiesSG website that is going to be used for future events such as workshop registration and forum entry. <br/> Before contributing anything, please read CONTRIBUTING.md carefully. 
 
-<br/><br/>
+<br/>
 
 **Please make qualitative pull requests.**
 
