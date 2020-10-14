@@ -14,7 +14,7 @@ Below is our old website, please use it only for reference:
 
 ****WHY THIS REPO?****
 
-This repo is for the new PyLadiesSG website that is going to be used for future events such as workshop registration and forum entry. <br/> Before contributing anything, please read [a relative link]CONTRIBUTING.md carefully. 
+This repo is for the new PyLadiesSG website that is going to be used for future events such as workshop registration and forum entry. <br/> Before contributing anything, please read [a relative link](CONTRIBUTING.md) carefully. 
 
 <br/>
 
