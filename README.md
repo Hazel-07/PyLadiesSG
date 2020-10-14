@@ -8,7 +8,7 @@ To achieve this, we are planning to organise workshops to introduce basic comput
 One thing to take note is that  PyLadiesSG is belong to the international PyLadies and only targeting at females in **Singapore**. If you are from another country and also interested in PyLadies, you can search for the one at your area. 
 
 Below is our old website, please use it only for reference: 
-http://pyladies.sg
+<br/>http://pyladies.sg
 
 **WHY THIS REPO?**
 
